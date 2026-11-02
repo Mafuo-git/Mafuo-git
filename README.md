@@ -26,12 +26,14 @@ A modern single-seater is hundreds of sensors, an onboard network, and data anal
 
 ## 🧰 Tech stack
 
-**Languages**
+**Languages & frameworks**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Embedded & hardware**
 
@@ -42,9 +44,16 @@ A modern single-seater is hundreds of sensors, an onboard network, and data anal
 **Simulation & tools**
 
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4B8BBE?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Platforms & environments**
+
+![Linux](https://img.shields.io/badge/Linux%20%28Ubuntu%29-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Virtual machines](https://img.shields.io/badge/Virtual%20machines-555555?style=for-the-badge)
 
 ---
 
