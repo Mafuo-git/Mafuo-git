@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Matheo Merlin — Robotics and Embedded Systems, F1 Electronics Enthusiast" />
+<img src="assets/banner-en.svg" alt="Matheo Merlin — Engineering Graduate · Future Motorsport Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E10600&center=true&vCenter=true&width=700&lines=Robotics+%26+Embedded+Systems+Engineering+Student;Fan+of+F1+electronics+and+telemetry;I+build+systems+that+sense,+decide+and+act;Looking+for+an+internship+in+motorsport+🏁)](https://git.io/typing-svg)
 
