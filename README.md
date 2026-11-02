@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b0000,100:e10600&height=200&section=header&text=Matheo%20Merlin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20Embedded%20Systems%20%C2%B7%20F1%20Electronics%20Enthusiast&descSize=18&descAlignY=60" alt="banner" />
+<img src="assets/banner.svg" alt="Matheo Merlin — Robotics and Embedded Systems, F1 Electronics Enthusiast" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E10600&center=true&vCenter=true&width=700&lines=Robotics+%26+Embedded+Systems+Engineering+Student;Fan+of+F1+electronics+and+telemetry;I+build+systems+that+sense,+decide+and+act;Looking+for+an+internship+in+motorsport+🏁)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-makeo.vercel.app-E10600?style=for-the-badge&logo=vercel&logoColor=white)](https://makeo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheo%20Merlin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-merlin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matheomerlin.vercel.app-E10600?style=for-the-badge&logo=vercel&logoColor=white)](https://matheomerlin.vercel.app/)
 
 </div>
 
@@ -78,8 +78,8 @@ What draws me in:
 
 - [x] Deliver complete projects, from sensor to actuator
 - [x] Master wireless communication (LoRaWAN)
-- [ ] Dive deeper into CAN bus and automotive electronics
-- [ ] Build a real-time telemetry / data logging project
+- [x] Dive deeper into CAN bus and automotive electronics
+- [x] Build a real-time telemetry / data logging project
 - [ ] Join a motorsport team (internship, work-study, or a student project like Formula Student)
 
 ---
@@ -88,8 +88,8 @@ What draws me in:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mafuo-git&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuo-git&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e10600" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mafuo-git&amp;theme=github_dark" alt="GitHub statistics" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mafuo-git&amp;theme=github_dark" alt="Languages used in repositories" />
 
 </div>
 
@@ -101,8 +101,9 @@ A project, an internship, a student team, or just a technical chat about F1? I'd
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-makeo.vercel.app-E10600?style=for-the-badge&logo=vercel&logoColor=white)](https://makeo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-merlin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matheomerlin.vercel.app-E10600?style=for-the-badge&logo=vercel&logoColor=white)](https://matheomerlin.vercel.app/)
+[![Makeo](https://img.shields.io/badge/Makeo-Project%20portfolio-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://makeo.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:8b0000,100:0d1117&height=100&section=footer" alt="footer" />
 
